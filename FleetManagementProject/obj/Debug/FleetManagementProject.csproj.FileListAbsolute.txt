@@ -1,0 +1,10 @@
+C:\Users\Tim\Desktop\Work\4.TRB\UPB\Urejanje voznega parka\FleetManagementPr\FleetManagement\FleetManagementProject\bin\Debug\FleetManagementProject.exe.config
+C:\Users\Tim\Desktop\Work\4.TRB\UPB\Urejanje voznega parka\FleetManagementPr\FleetManagement\FleetManagementProject\bin\Debug\FleetManagementProject.exe
+C:\Users\Tim\Desktop\Work\4.TRB\UPB\Urejanje voznega parka\FleetManagementPr\FleetManagement\FleetManagementProject\bin\Debug\FleetManagementProject.pdb
+C:\Users\Tim\Desktop\Work\4.TRB\UPB\Urejanje voznega parka\FleetManagementPr\FleetManagement\FleetManagementProject\obj\Debug\FleetManagementProject.csprojAssemblyReference.cache
+C:\Users\Tim\Desktop\Work\4.TRB\UPB\Urejanje voznega parka\FleetManagementPr\FleetManagement\FleetManagementProject\obj\Debug\FleetManagementProject.Form1.resources
+C:\Users\Tim\Desktop\Work\4.TRB\UPB\Urejanje voznega parka\FleetManagementPr\FleetManagement\FleetManagementProject\obj\Debug\FleetManagementProject.Properties.Resources.resources
+C:\Users\Tim\Desktop\Work\4.TRB\UPB\Urejanje voznega parka\FleetManagementPr\FleetManagement\FleetManagementProject\obj\Debug\FleetManagementProject.csproj.GenerateResource.cache
+C:\Users\Tim\Desktop\Work\4.TRB\UPB\Urejanje voznega parka\FleetManagementPr\FleetManagement\FleetManagementProject\obj\Debug\FleetManagementProject.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Desktop\Work\4.TRB\UPB\Urejanje voznega parka\FleetManagementPr\FleetManagement\FleetManagementProject\obj\Debug\FleetManagementProject.exe
+C:\Users\Tim\Desktop\Work\4.TRB\UPB\Urejanje voznega parka\FleetManagementPr\FleetManagement\FleetManagementProject\obj\Debug\FleetManagementProject.pdb
